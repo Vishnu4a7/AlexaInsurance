@@ -1,4 +1,4 @@
-package com.shri.redx.controller;
+package com.fed.alexa.redx.controller;
 
 import java.text.ParseException;
 import java.time.LocalDate;
@@ -9,8 +9,8 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.shri.redx.model.Policy;
-import com.shri.redx.repo.PolicyRepository;
+import com.fed.alexa.redx.model.Policy;
+import com.fed.alexa.redx.repo.PolicyRepository;
 
 @RestController
 public class PolicyController {

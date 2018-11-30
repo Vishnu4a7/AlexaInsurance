@@ -1,4 +1,4 @@
-package com.shri.redx.model;
+package com.fed.alexa.redx.model;
 
 
 import java.io.Serializable;

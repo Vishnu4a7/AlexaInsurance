@@ -1,0 +1,8 @@
+com\shri\askalexa\redx\Utility.class
+com\shri\askalexa\redx\domain\Policy.class
+com\shri\askalexa\redx\rest\ClientTest.class
+com\shri\askalexa\redx\rest\RedXInsuranceRest.class
+com\shri\askalexa\redx\Speechlet.class
+com\shri\askalexa\redx\domain\Details.class
+com\shri\askalexa\redx\domain\Payment.class
+com\shri\askalexa\redx\SpeechletRequestHandler.class
