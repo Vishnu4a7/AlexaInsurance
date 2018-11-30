@@ -1,0 +1,4 @@
+com\fed\alexa\redx\RedXInsuranceApplication.class
+com\fed\alexa\redx\controller\PolicyController.class
+com\fed\alexa\redx\model\Policy.class
+com\fed\alexa\redx\repo\PolicyRepository.class
